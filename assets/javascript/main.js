@@ -570,7 +570,11 @@ function listPage(result){
     $(".tabs").tabs();
 };
 
+$('#favoriteButton').on('click', function(e){
+e.preventDefault()
+    M.toast({html: 'Added home to favorites', classes: 'errorToast ' });
 
+})
 
 
 
