@@ -39,12 +39,6 @@ body {
 
 nav{
     background-color: #1c486b;
-<<<<<<< HEAD
-}
-
-footer.page-footer {
-    background-color: #1c746b;
-=======
     height: 60px;
     line-height: 60px;
     margin-bottom: 2rem;
@@ -66,25 +60,12 @@ footer.page-footer {
     clear: both;
     position: fixed;
     bottom: 0;
->>>>>>> 93dd483056e85956eab591c2cc51beb498f7c517
+    z-index: 1;
 }
 
 .cardContentUser {
     padding-bottom: 0 !important;
 }
-<<<<<<< HEAD
-
-#indexSubmit{
-    height: 3.2em;
-}
-.errorToast{
-    background-color: orange;
-}
-.more-homes{
-margin-top: -2rem;
-background-color: #1c486b;
-}
-=======
 
 .btn{
     background-color: #1c486b;
@@ -141,4 +122,3 @@ input.select-dropdown{
     background: #1c486b;
     color: #fff;
 }
->>>>>>> 93dd483056e85956eab591c2cc51beb498f7c517
