@@ -14,7 +14,8 @@ Troy G.
 Alfonso B.
 Daniel G.
 Jeric A.
-Technologies
+
+### Technologies Used
 JavaScript
 CSS
 HTML
